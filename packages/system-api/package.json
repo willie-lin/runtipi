@@ -41,7 +41,7 @@
     "graphql-type-json": "^0.3.2",
     "http": "0.0.1-security",
     "internal-ip": "^6.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mock-fs": "^5.1.2",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.1",
